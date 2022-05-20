@@ -4,7 +4,7 @@ Auto Filter V1 Bot!
 #### Added Features
 * Auto Filter in any groups
 * Force subscribe
-* 
+* AFK
 
 #### Deploy To Heroku
 

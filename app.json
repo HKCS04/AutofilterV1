@@ -1,7 +1,7 @@
 {
-    "name": "Auto Filter Bot V3",
-    "description": "A greater auto filter bot with features like IMDb support,inline mode,broadcast feature etc..",
-    "logo":"https://telegra.ph/file/ad9cb7fc42ec0e5e6d006.jpg",
+    "name": "Auto Filter Bot V1",
+    "description": "A greater auto filter V1 bot",
+    "logo":"https://telegra.ph/file/3b070ffda731c5509a500.jpg",
     "keywords": [
       "telegram",
       "auto-filter",
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/DalinMathew/AutoFilterBotV3",
-    "repository": "https://github.com/DalinMathew/AutoFilterBotV3",
+    "website": "https://github.com/HKCS04/AutofilterV1",
+    "repository": "https://github.com/HKCS04/AutofilterV1",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -50,17 +50,12 @@
         },
         "START_MSG": {
             "description": "Welcome message for start command",
-            "value": "**Hi, I'm Auto Filter Bot With Greater Abilities**",
+            "value": "   ",
             "required": false
         },
         "USE_CAPTION_FILTER": {
             "description": "Whether bot should use captions to improve search results. (True False)",
             "value": "False",
-            "required": false
-        },
-        "OMDB_API_KEY": {
-            "description": "Your OMBD API KEY, Fill if you want to generate a imdb poster of movie in autofilter.",
-            "value": "",
             "required": false
         },
         "CUSTOM_FILE_CAPTION": {

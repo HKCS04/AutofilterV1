@@ -15,27 +15,22 @@ Basic Commads
 
 /start :- check am Alive
 
-Bot Owner Only
-/broadcast Replay Any Message or Media
-/stats user Status
-/ban_user  click ban_user more info
-/unban_user click unban_user more info
-/banned_users Banned User Details
-/total How Many Files Added In Database
-/logger  Get Logs
-/delete Delete File From Database
-
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
-    
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+🤖 ʙᴏᴛ ɴᴀᴍᴇ: Pooja Hegde 🇮🇳『Online』
 
-➥ Language : Python3
+📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 
 
-➥ Library : Pyrogram Asyncio 1.13.0
+📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏʀᴏɢʀᴀᴍ
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+📡 ʜᴏsᴛᴇᴅ ᴏɴ : [ʜᴇʀᴏᴋᴜ](www.heroku.com]
+
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : [ʙʀᴜᴄᴇ ʙᴀɴɴᴇʀ 🇮🇳『Offline』](https://t.me/BruceBanner_TG)
+
+💡 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+WJ6slt1DI-U2ZDA9)
+
+👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : [Auto Filter Club Group](https://t.me/Autofilterclubgroup)
+
+📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : [Auto Filter Club](https://t.me/Autofilterclub)
 """
